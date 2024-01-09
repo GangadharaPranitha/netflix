@@ -38,7 +38,7 @@ body {
 }
 /* Banner Styles */
 .banner {
-    background-image: url("https://screenshots.codesandbox.io/6u75e/319.png");
+    background-image: url("netflix/netflix-bg.jpg");
     background-size: cover;
     background-position: center center;
     color: white;
